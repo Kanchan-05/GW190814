@@ -1,0 +1,10 @@
+README.md
+setup.py
+teobresums.py
+plugin/pycbc_plugin.py
+teobresums_pycbc.egg-info/PKG-INFO
+teobresums_pycbc.egg-info/SOURCES.txt
+teobresums_pycbc.egg-info/dependency_links.txt
+teobresums_pycbc.egg-info/entry_points.txt
+teobresums_pycbc.egg-info/requires.txt
+teobresums_pycbc.egg-info/top_level.txt

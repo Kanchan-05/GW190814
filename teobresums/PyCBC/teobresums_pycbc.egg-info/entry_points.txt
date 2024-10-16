@@ -1,0 +1,8 @@
+[pycbc.waveform.end_frequency]
+teobresums = plugin.pycbc_plugin:teobresums_get_end_frequency
+
+[pycbc.waveform.length]
+teobresums = plugin.pycbc_plugin:teobresums_length_in_time
+
+[pycbc.waveform.td]
+teobresums = teobresums:teobresums_td
